@@ -1,10 +1,10 @@
-# 🎉 Script Premium Berbayar
+# 🎉 Script DDoS Premium Berbayar
 
 <p align="center">
   <img src="https://files.catbox.moe/ta9ds2.gif" alt="Animasi Banner" width="400"/>
 </p>
 
-Script ini **berbayar** dan digunakan untuk keperluan **DDoS** edukatif atau pengujian sistem.  
+Script ini **berbayar** dan digunakan untuk keperluan **DDoS edukatif** atau **pengujian keamanan jaringan**.  
 Jika kamu tertarik untuk membeli, silakan hubungi admin melalui tombol di bawah.
 
 ---
@@ -24,6 +24,17 @@ Jika kamu tertarik untuk membeli, silakan hubungi admin melalui tombol di bawah.
     <img src="https://img.shields.io/badge/Masuk%20Akun%20TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="Masuk Akun TikTok" />
   </a>
 </p>
+
+---
+
+## 💰 Harga Script
+
+| Paket                         | Fitur                     | Harga  |
+|------------------------------|---------------------------|--------|
+| ⭐ Premium (tanpa enkripsi)   | Full source code terbuka  | 35K IDR |
+| 🔒 Biasa (pakai enkripsi)     | Source code terenkripsi   | 15K IDR |
+
+📩 Untuk pembelian, silakan klik tombol **Chat Admin** di atas dan pilih paket yang kamu inginkan.
 
 ---
 
