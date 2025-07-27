@@ -20,7 +20,7 @@ Jika kamu tertarik untuk membeli, silakan hubungi admin melalui tombol di bawah.
     <img src="https://img.shields.io/badge/Chat%20Admin-007AFF?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Chat Admin" />
   </a>
   <br/><br/>
-  <a href="https://www.tiktok.com/login" target="_blank">
+  <a href="https://www.tiktok.com/@rizky.cyber" target="_blank">
     <img src="https://img.shields.io/badge/Masuk%20Akun%20TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="Masuk Akun TikTok" />
   </a>
 </p>
