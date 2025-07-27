@@ -46,6 +46,7 @@ pkg install git -y
 pkg install nodejs-lts -y
 git clone https://github.com/Rizky598/Shutdown
 cd Shutdown
+pkg install yarn
 yarn install
 npm install
 npm start
